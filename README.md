@@ -1,6 +1,5 @@
 # Ubuntu_Requests
 Python Libraries Assignment
-# Ubuntu_Requests
 
 ## Overview
 Ubuntu_Requests is a simple Python tool that allows users to download images from the web by providing a URL. Images are saved in a dedicated directory for easy sharing and organization.
@@ -34,7 +33,4 @@ pip install requests
     python Ubuntu_Requests.py
     ```
 2. Enter a valid image URL when prompted.
-3. The image will be saved in the `Fetched_Images` directory.
-
-  2. Enter a valid image URL when prompted.
 3. The image will be saved in the `Fetched_Images` directory.
